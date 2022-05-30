@@ -7,7 +7,7 @@ export default function PrivetHome() {
         <h1 className='display-3 text-light mb-4'>
             Home Sweet Private Home
         </h1>
-        <img src="dog" alt="dog gif" />
+        <img src={dog} alt="dog gif" />
     </div>
   )
 }
